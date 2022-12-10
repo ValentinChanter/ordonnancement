@@ -19,7 +19,7 @@ void ajoutActivite(proc p, file* f) {
 void step(file* f) {
     if (f->queue == NULL) printf("La file est vide.\n");
     else {
-        // Ordonnancement préemptif en Round-Robin avec un quantum égal à (6 - priorité) secondes
+        // Ordonnancement non préemptif en Round-Robin avec un quantum égal à (6 - priorité) secondes
         // On retire la tête de la file
         elem* tmp = f->tete;
         if (tmp->suiv != NULL) f->tete = tmp->suiv;
