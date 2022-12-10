@@ -38,7 +38,7 @@ Ce TP consiste en la réalisation de deux travaux distincts :
 1. Suivez les instructions affichées par le terminal : renseignez le nombre de processus que vous voulez générer aléatoirement
 2. Le terminal affichera l'exécution des processus
 
-## Options supplémentaires
+## Option supplémentaire
 
 Une constante est définie par défaut dans le fichier ordonnancement.h et est modifiable au besoin.
 
