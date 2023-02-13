@@ -7,11 +7,7 @@
 
 ## A propos
 
-Ce TP consiste en la réalisation de deux travaux distincts : 
-* Le premier travail est divisé en deux parties :
-    * La première permet de prédire le prix d'une habitation destinée à être mise en location sur Airbnb
-    * La deuxième, bonus, permet d'évaluer la performance du modèle de prédiction
-* Le deuxième travail simule l'ordonnancement d'un processus
+Ce sujet consiste en la simulation de l'ordonnancement d'un processus en Round-Robin avec un quantum de 6 - priorité. La priorité d'un processus est comprise entre 0 et 5.
 
 ## Pour commencer
 
